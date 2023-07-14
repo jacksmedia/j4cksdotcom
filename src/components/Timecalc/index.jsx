@@ -15,7 +15,7 @@ const warmUps = [
 {"url":"https://youtu.be/jOfshreyu4w?t=41","emojis":"🫂🏅"}
 ]
 const exercises = [
-{"url":"https://youtu.be/3GtFp6sz5zM?t=68","emojis":"🍯💦"},
+{"url":"https://youtu.be/3GtFp6sz5zM?t=68","emojis":"💨🍯"},
 {"url":"https://youtu.be/cEOS2zoyQw4?t=89","emojis":"🦆🌊"},
 {"url":"https://youtu.be/HMbT-CPVl2k","emojis":"🍵🐵"},
 {"url":"https://www.youtube.com/watch?v=enk0bOv-gF8?t=17","emojis":"🦇☁️"},
@@ -23,7 +23,7 @@ const exercises = [
 {"url":"https://www.youtube.com/watch?v=OPcZlXYcdMA?t=31","emojis":"🐎🌕"},
 {"url":"https://youtu.be/8wddPSIEpvE?t=61","emojis":"🐠🛸"},
 {"url":"https://youtu.be/RoIqYtiTLFI?t=18","emojis":"🐍🍂"},
-{"url":"https://www.youtube.com/watch?v=nmmNWj9YtAw?t=60","emojis":"🐯🌋"},
+{"url":"https://youtu.be/nmmNWj9YtAw?t=54","emojis":"🐯🌋"},
 {"url":"https://youtu.be/62a20CiIAlY?t=44","emojis":"🐉☂️"},
 {"url":"https://youtu.be/EZT8RC0wRbA?t=88","emojis":"🐻🔥"},
 {"url":"https://youtu.be/tbwbL1pg0HY?t=30","emojis":"🐒🦜"},
